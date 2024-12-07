@@ -38,3 +38,28 @@ body::before {
 .btn{
     right: 120px;
 }
+
+.logo a {
+    color: red;
+    font-size: 45px;
+    text-transform: uppercase;
+    display: block;
+    margin-top: 10px;
+    font-weight: 600;
+}
+
+span { 
+    margin-left: -12px;
+}
+
+.two {
+    font-size: 0.89em;
+}
+
+.three, .four, .five {
+    font-size: 0.79em;
+}
+
+.six { 
+    font-size: 0.89em;
+}
