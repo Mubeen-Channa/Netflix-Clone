@@ -79,3 +79,21 @@ span {
     margin-top: 22px;
     font-size: 15px;
 }
+
+.pg p{
+    color: white;
+    text-align: center;
+    margin-top: 15px;
+    font-family: 'Segoe UI';
+}
+
+.pg .p1{
+    font-size: 45px;
+    font-weight: 800;
+}
+.pg .p2{
+    font-size: 25px;
+}
+.pg .p3{
+    font-size: 20px;
+}
