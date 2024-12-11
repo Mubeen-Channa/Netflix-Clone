@@ -78,6 +78,13 @@ span {
     border-radius: 5px;
     margin-top: 22px;
     font-size: 15px;
+    cursor: pointer;
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.btn input:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 15px red;
 }
 
 .pg p{
