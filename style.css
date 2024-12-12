@@ -143,3 +143,23 @@ input[type="submit"]:hover {
     transform: scale(1.03);
     box-shadow: 0 0 15px red;
 }
+
+
+@media (max-width: 600px) {
+    .navbar {
+        flex-direction: column;
+    }
+
+    .btn input {
+        margin-top: 10px;
+    }
+
+    form {
+        flex-direction: column;
+    }
+
+    input[type="search"], input[type="submit"] {
+        width: 90%;
+        margin: 5px 0;
+    }
+}
